@@ -18,7 +18,7 @@ require (
 	github.com/evanw/esbuild v0.8.0
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.1
-	github.com/fsnotify/fsnotify v1.4.9
+	github.com/fsnotify/fsnotify v1.5.1
 	github.com/getkin/kin-openapi v0.22.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobwas/glob v0.2.3
@@ -52,7 +52,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/tdewolff/minify/v2 v2.6.2
+	github.com/tdewolff/minify/v2 v2.9.24
 	github.com/yuin/goldmark v1.2.1
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	gocloud.dev v0.15.0
